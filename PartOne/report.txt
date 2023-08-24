@@ -1,0 +1,22 @@
+Competitor               Level     Scores    Overall   
+100  Keith Talbot        Novice    5 4 5 4 3 	4.0
+101  Jane Macdonald      Novice    3 3 3 2 4 	3.0
+102  Kimora Lyons        Standard  4 3 2 5 1 	3.0
+103  Angela Wood         Veteran   3 5 3 1 3 	3.0
+104  Gaven Clarke        Novice    4 2 3 1 3 	3.0
+105  Zion Krueger        Standard  5 4 2 1 3 	3.0
+106  Karen Harding       Veteran   1 3 4 2 4 	2.0
+107  Sarah Green         Standard  5 4 2 1 3 	3.0
+108  Ann Deleon          Expert    2 3 1 2 3 	2.0
+109  Larissa Chaney      Expert    1 3 4 2 5 	3.0
+110  Clarence Sampson    Expert    3 2 1 4 5 	3.0
+111  Dominic Camacho     Veteran   2 3 4 2 5 	2.0
+112  Armani Hurst        Expert    4 2 2 4 5 	3.0
+
+STATISTICAL
+There are 13 competitors
+The person with the highest score is Keith Talbot with a score of 4.0.
+The person with the lowest score is Karen Harding with a score of 2.0.
+The following individual scores were awarded:
+Score :		1	2	3	4	5
+Frequency :	9	14	18	14	10

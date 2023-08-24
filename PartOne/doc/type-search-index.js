@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"objectclasses","l":"Competitor"},{"p":"FileIO","l":"CompetitorList"},{"p":"EntryPoint","l":"Manager"},{"p":"objectclasses","l":"Name"}];updateSearchResults();

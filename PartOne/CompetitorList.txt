@@ -1,0 +1,13 @@
+100, Keith Talbot, Novice,20,AF, 5,4,5,4,3
+101, Jane Macdonald, Novice,21,AL, 3,3,3,2,4
+102, Kimora Lyons, Standard,23,DZ, 4,3,2,5,1
+103, Angela Wood, Veteran,26,AS, 3,5,3,1,3
+104, Gaven Clarke, Novice,27,AD, 4,2,3,1,3
+105, Zion Krueger, Standard,34,AO, 5,4,2,1,3
+106, Karen Harding, Veteran,19,BO, 1,3,4,2,4
+107, Sarah Green, Standard,31,CF, 5,4,2,1,3
+108, Ann Deleon, Expert,24,CL, 2,3,1,2,3
+109, Larissa Chaney, Expert,18,CN, 1,3,4,2,5
+110, Clarence Sampson, Expert,28,Uk, 3,2,1,4,5
+111, Dominic Camacho, Veteran,26,US, 2,3,4,2,5
+112, Armani Hurst, Expert,23,Uk, 4,2,2,4,5
